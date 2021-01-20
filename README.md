@@ -25,4 +25,6 @@ Then paste a URL into the Video Url input, can either be a single video or a pla
 
 🥀 https://t.me/explode_ir 🥀
 
+# status
 
+![explode-ir github stats](https://github-readme-stats.vercel.app/api?username=explode-ir&show_icons=true&theme=midnight-purple)
