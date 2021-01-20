@@ -24,3 +24,5 @@ Then paste a URL into the Video Url input, can either be a single video or a pla
 # creator
 
 🥀 https://t.me/explode_ir 🥀
+
+https://github-readme-stats.vercel.app/api?username=explode-ir&show_icons=true&theme=midnight-purple
